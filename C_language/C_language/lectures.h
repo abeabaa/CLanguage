@@ -8,4 +8,5 @@ void lecture4_1();
 void lecture4_2();
 int lecture5();//포함?한 함수를 쓰기 위해선 포함?하려는 함수의 자룔형도 똑같이 가져와야 함
 //그래서 일부러 lecture5()의 자료형을 int로 바꿔서 예시를 들었다.
+void lecture6();
 

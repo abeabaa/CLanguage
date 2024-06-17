@@ -2,7 +2,7 @@
 
 void lecture4_2()
 {
-	int width = 24, height = 12, length = 8;
+	/*int width = 24, height = 12, length = 8;
 
 	int num;
 	// 주석을 보고 함수를 사용 Scanf_s
@@ -44,14 +44,14 @@ void lecture4_2()
 	scanf_s("%d %d %d", &Third1, &Third2, &Third3);
 	printf(" 몫 : %d, 나머지 : %d ", Third1 / Third2, Third1 % Third2);
 	// 몫을 구하는 방식 : a / b(나눈 값에서 정수 부분이 몫)
-	// a % b =  a를 b로 나눈 나머지 값
+	// a % b =  a를 b로 나눈 나머지 값*/
 
 	// 문제 4. " 하나의 정수를 받아서 제곱을 출력하는 코드 작성 "
-	//printf("문제4\n");
-	//int num1;
-	//printf("하나의 정수를 입력하세요");
-	//scanf_s("%d", &num1);
-	//printf("%d", num1 * num1);
+	printf("문제4\n");
+	int num1;
+	printf("하나의 정수를 입력하세요");
+	scanf_s("%d", &num1);
+	printf("%d", num1 * num1);
 	// 문제 5.  세 개의 정수를 입력을 받아서,  {fifthNum1 - fifthNum2} x { fifthNum2 + fifthNum3 } x { fifthNum3 * fifthNum1} 의 결과를
 	// 출력하는 코드를 작성해보세요
 	//printf("문제5\n");

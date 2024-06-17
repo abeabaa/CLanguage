@@ -8,4 +8,5 @@ int main() {
 	//lecture4_1();
 	//lecture4_2();
 	//lecture5();
+	lecture6();
 }
