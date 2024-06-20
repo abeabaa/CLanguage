@@ -95,16 +95,16 @@ void lecture8() {
 	int e = 0b00010010;
 	int my_int = 0b00000010;
 	int result = d & e;
-	printf("내가 계산한 값 %d 실제 값 %d", my_int, result);
+	printf("내가 계산한 값 %d 실제 값 %d\n", my_int, result);
 	
 	d = 0b0001111;
 	e = 0b0010010;
-	my_int = 0b00;
+	my_int = 0b0011101;
 	result = d ^ e;
 	printf("내가 계산한 값 %d 실제 값 %d\n", my_int, result);
 
-	char overFlowedValue = 0b01000000;
-	overFlowedValue=overFlowedValue << 2; //이게 어떻게 -255가 나올수 있지? -128이 최대아님? char형이잖아.
+	char overFlowedValue = 0b01000000; //2개가 왼쪽으로 시프트 되면 8개를 넘어간 1은 버려져서 0이 출력됨
+	overFlowedValue=overFlowedValue << 1; //이게 어떻게 -255가 나올수 있지? -128이 최대아님? char형이잖아.
 	//printf 출력해보기
 	printf("%d\n", overFlowedValue);
 	
@@ -116,14 +116,17 @@ void lecture8() {
 	//10진수를 하나 입력받아서 해당 수의 2의 보수 값을 출력하는 코드를 작성해 보세요.(~)연산자 사용
 	int twocomplement;
 	scanf_s("%d", &twocomplement);
-	twocomplement = ~twocomplement;
+	twocomplement = ~twocomplement+1;
 	printf("2의 보수의 값을 출력%d\n",twocomplement);
 
 	//시프트 연산	
 	//10진수 하나를 입력받아서 해당 수에 8을 곱하고 32를 나누는 코드를	사칙연산 없이 작성.
-	int shiftnum;
-	scanf_s("%d", &shiftnum);
-	shiftnum = shiftnum << 3 >> 5;
+	char shiftnum=64;
+	//scanf_s("%d", &shiftnum);
+	// = shiftnum << 3 >> 5; //밑에 2개랑 다른 이유는 
+	shiftnum=shiftnum << 3;
+	shiftnum=shiftnum >> 5;
 	printf("8을 곱한후 32로 나눈 값%d\n", shiftnum);
 
+	//printf("%d", 0b11111100);
 }

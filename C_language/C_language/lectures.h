@@ -11,4 +11,4 @@ int lecture5();//포함?한 함수를 쓰기 위해선 포함?하려는 함수의 자룔형도 똑같이 �
 void lecture6();
 void lecture7();
 void lecture8();
-
+void lecture9();
