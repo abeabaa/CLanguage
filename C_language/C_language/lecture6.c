@@ -46,12 +46,12 @@
 
 void lecture6() {//변수에 마우스 갖다대면 자료형 나옴
 
-	/*printf("디버깅 예제문제\n"); //ctrl+f5디버깅 무시 컴파일
+	printf("디버깅 예제문제\n"); //ctrl+f5디버깅 무시 컴파일
 	char a, b, c;//f9 중단점 생성
 	a = 100;
 	b = 300;
 	c = a + b;
-	printf("%d+%d=%d\n", a, b, c);*/
+	printf("%d+%d=%d\n", a, b, c);
 
 	//9+2=11, 9-2=7
 
@@ -74,11 +74,11 @@ void lecture6() {//변수에 마우스 갖다대면 자료형 나옴
 
 	//문제 : 변수 A의 값은 3+4x5이고, 변수 b의 값은 7/3%2이다.
 	//A,B의 값을 비교한 것을 result변수에 대입해 출력해보시오.
-	printf("연산자 우선 순위 예제\n");
+	//printf("연산자 우선 순위 예제\n");
 
-	int variableA=23;
-	int variableB=0;
-	int Final= variableA> variableB;
+	//int variableA=23;
+	//int variableB=0;
+	//int Final= variableA> variableB;
 
-	printf("%d", Final);
+	//printf("%d", Final);
 }
