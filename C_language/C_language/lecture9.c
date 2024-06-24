@@ -67,17 +67,30 @@
 
 void lecture9() {
 	//sizeof 연산자를 사용해서 데이터량 출력하기
-	int a;
-	printf("char데이터 크기 %d\n",sizeof(a));
-	printf("short데이터 크기 %d\n", sizeof(short));
+
+	//코드밑의 초록울퉁불퉁줄은 경고해주는 기능
+	//%d와 
+	double a=sizeof(char);
+	printf("char데이터 크기 %d\n",sizeof(char));//sizeof의 리턴타입은 size_t라서 그럼?
+	//int a=sizeof(char);
+	printf("short데이터 크기 %d\n", a);//그래서 double을 int로 바꾸면 해결됨. 에러경고줄
 	printf("long long데이터 크기 %d\n", sizeof(long long));
 	printf("long long데이터 크기 %d\n", sizeof(long));
 
 	//문제 리터럴 상수를 sizeof 연산자로 출력하세요
 	// 3.15, 3.15f, 10, 어떤 데이터를 출력하는지 파악해보기
 	//예를 들어 sizeof(5); 어떤 값이 출력하는 함수로 표현해보기
+	printf("%d\n", sizeof(3.15));
+	printf("%d\n", sizeof(3.15f));
+	printf("%d\n", sizeof(10));
 
 	//문제2 직사각형의 넓이를 구하는 프로그램 작성
-	//첫번째 조건 좌쵸를 2개 지정받아야 함. (xpos1,ypos1)(xpos2,ypos2)
-	//두번째 
+	//첫번째 조건 좌표를 2개 지정받아야 함. (xpos1,ypos1)(xpos2,ypos2)
+	//두번째 2가 1보다 커야함 4,6 6,8
+	int xpos2 = 6, xpos1 = 4, ypos2 = 8, ypos1 = 6;
+	int n = (xpos2 - xpos1) * (ypos2 - ypos1);
+	printf("넓이 : %d", n);
+
+	const PI = 3.14;
+	printf("%d", 4*4*PI);
 }

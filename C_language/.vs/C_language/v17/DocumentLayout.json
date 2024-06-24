@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture11.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|solutionrelative:MyGame\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lectures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|solutionrelative:C_language\\lecture8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CB58A00-C704-4AE5-AC90-D6050B46737B}|C_language\\C_language.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -78,31 +90,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "lecture11.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture11.c",
+              "RelativeDocumentMoniker": "C_language\\lecture11.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture11.c",
+              "RelativeToolTip": "C_language\\lecture11.c",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-24T07:04:56.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c",
+              "RelativeDocumentMoniker": "MyGame\\main.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c",
+              "RelativeToolTip": "MyGame\\main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T08:26:59.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "lecture9.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture9.c",
               "RelativeDocumentMoniker": "C_language\\lecture9.c",
               "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture9.c",
               "RelativeToolTip": "C_language\\lecture9.c",
-              "ViewState": "AQIAADUAAAAAAAAAAADwv1EAAAAHAAAA",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswF0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-20T06:54:34.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-20T06:54:34.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "lecture8.c",
-              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c",
-              "RelativeDocumentMoniker": "C_language\\lecture8.c",
-              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c",
-              "RelativeToolTip": "C_language\\lecture8.c",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAnwH0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-19T07:01:23.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "lecture7.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture7.c",
               "RelativeDocumentMoniker": "C_language\\lecture7.c",
@@ -120,13 +145,13 @@
               "RelativeDocumentMoniker": "C_language\\lectures.h",
               "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lectures.h",
               "RelativeToolTip": "C_language\\lectures.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-18T07:15:49.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "lecture5.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture5.c",
               "RelativeDocumentMoniker": "C_language\\lecture5.c",
@@ -138,20 +163,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\main.c",
               "RelativeDocumentMoniker": "C_language\\main.c",
               "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\main.c",
               "RelativeToolTip": "C_language\\main.c",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswA4AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-06-18T07:15:49.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lecture8.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c",
+              "RelativeDocumentMoniker": "C_language\\lecture8.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture8.c",
+              "RelativeToolTip": "C_language\\lecture8.c",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAnwH0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-19T07:01:23.55Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "lecture10.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture10.c",
+              "RelativeDocumentMoniker": "C_language\\lecture10.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture10.c",
+              "RelativeToolTip": "C_language\\lecture10.c",
+              "ViewState": "AQIAACQAAAAAAAAAAAAlwDQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-21T07:32:40.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Microsoft.CppBuild.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
@@ -163,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "lecture3h.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture3h.c",
               "RelativeDocumentMoniker": "C_language\\lecture3h.c",
@@ -175,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "lecture6.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture6.c",
               "RelativeDocumentMoniker": "C_language\\lecture6.c",
@@ -187,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "lecture4_2h.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture4_2h.c",
               "RelativeDocumentMoniker": "C_language\\lecture4_2h.c",
@@ -199,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "lecture5h.c",
               "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\C_language\\lecture5h.c",
               "RelativeDocumentMoniker": "C_language\\lecture5h.c",

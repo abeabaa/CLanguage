@@ -11,5 +11,9 @@ int main() {
 	//lecture6();
 	//lecture7();
 	//lecture8();
-	lecture9();
+	//lecture9();
+	//lecture10();
+	//lecture11();
+	lecture11_2();
+	return 0;
 }
