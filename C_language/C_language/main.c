@@ -14,6 +14,13 @@ int main() {
 	//lecture9();
 	//lecture10();
 	//lecture11();
-	lecture11_2();
+	//lecture11_2();
+	//lecture12();
+	//lecture12_2();
+	//lecture12_3();
+	//lecture13();
+	//lecture13_switch();
+	//lecture14();
+	lecture14_2();
 	return 0;
 }

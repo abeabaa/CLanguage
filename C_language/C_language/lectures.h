@@ -14,3 +14,20 @@ void lecture8();
 void lecture9();
 void lecture10();
 void lecture11();
+/// <summary>
+/// 강의12반복문
+/// </summary>
+void lecture12();
+void lecture12_2();
+/// <summary>
+/// while반복문
+/// </summary>
+void lecture12_3();
+/// <summary>
+/// switch조건문
+/// </summary>
+void lecture13();
+void lecture13_switch();
+void lecture14();
+void lecture14_2();
+
