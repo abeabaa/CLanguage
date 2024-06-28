@@ -25,7 +25,7 @@ int addtwonumber(int a, int b){
 	int result = a+b;
 	printf("%d\n", result);
 	return result; //printf("%d\n", result);를 return 뒤에 두면 printf가 작동안됨
-					//return은 무조건 필요하다.
+					//return은 무조건 필요하다. return은 break와 약간 비슷한 느낌
 }
 //유형2
 //반환값이 없고 매개변수도 없는 함수

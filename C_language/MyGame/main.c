@@ -6,12 +6,12 @@ int main() {
 	printf("게임시작!");
 	printf("환영합니다.♬");
 	
-	srand(time(NULL));
+	//srand(time(NULL));
 	//int computerValue = rand() % 100+1;
 	int computerValue = 15;
 	int opper=10;
 	int userValue;
-	int userValue1;
+	//int userValue1;
 	printf("숫자를 입력하면 게임이 시작됩니다\n");
 	scanf_s("%d", &userValue);
 	//gamewin함수 만들어보기 승리함수구현
@@ -28,6 +28,8 @@ int main() {
 				break;
 			}
 			opper--;
+			printf("플레이어의 값을 다시 입력하세요\n");
+			scanf_s("%d", &userValue);
 
 		}
 	}
