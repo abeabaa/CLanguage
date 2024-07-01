@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|solutionrelative:MyGame\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|solutionrelative:avoid_star\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|solutionrelative:MyGame\\countnumfn.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|solutionrelative:avoid_star\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|solutionrelative:MyGame\\countnumfn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9E729CC4-BEE1-4E2F-8541-60BA4DDECD2F}|MyGame\\MyGame.vcxproj|solutionrelative:MyGame\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{78EB0716-AD6A-4F07-8DFD-19F73E6A439F}|avoid_star\\avoid_star.vcxproj|solutionrelative:avoid_star\\Console.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,54 +46,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c",
-              "RelativeDocumentMoniker": "MyGame\\main.c",
-              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main.c",
-              "RelativeToolTip": "MyGame\\main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-28T08:39:08.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "countnumfn.h",
-              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.h",
-              "RelativeDocumentMoniker": "MyGame\\countnumfn.h",
-              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.h",
-              "RelativeToolTip": "MyGame\\countnumfn.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-28T07:34:27.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main2.c",
-              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main2.c",
-              "RelativeDocumentMoniker": "MyGame\\main2.c",
-              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\main2.c",
-              "RelativeToolTip": "MyGame\\main2.c",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAxwBQAAAAWAAAA",
+              "Title": "Console.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.c",
+              "RelativeDocumentMoniker": "avoid_star\\Console.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.c",
+              "RelativeToolTip": "avoid_star\\Console.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-28T07:34:26.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:09:41.489Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "countnumfn.c",
-              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.c",
-              "RelativeDocumentMoniker": "MyGame\\countnumfn.c",
-              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\MyGame\\countnumfn.c",
-              "RelativeToolTip": "MyGame\\countnumfn.c",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwCkAAAAJAAAA",
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.h",
+              "RelativeDocumentMoniker": "avoid_star\\Console.h",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\Console.h",
+              "RelativeToolTip": "avoid_star\\Console.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-01T07:09:19.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\main.c",
+              "RelativeDocumentMoniker": "avoid_star\\main.c",
+              "ToolTip": "C:\\Users\\jaewo\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C_language\\CLanguage\\C_language\\avoid_star\\main.c",
+              "RelativeToolTip": "avoid_star\\main.c",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwDYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-06-28T07:03:21.846Z",
+              "WhenOpened": "2024-07-01T07:04:22.968Z",
               "EditorCaption": ""
             }
           ]
