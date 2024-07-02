@@ -22,6 +22,7 @@ int main() {
 	//lecture13_switch();
 	//lecture14();
 	//lecture14_2();
-	lecture15();
+	//lecture15();
+	lecture16();
 	return 0;
 }

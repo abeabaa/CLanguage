@@ -139,6 +139,7 @@
     <ClCompile Include="lecture14.c" />
     <ClCompile Include="lecture14_2.c" />
     <ClCompile Include="lecture15.c" />
+    <ClCompile Include="lecture16.c" />
     <ClCompile Include="lecture1h.c" />
     <ClCompile Include="lecture2.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>

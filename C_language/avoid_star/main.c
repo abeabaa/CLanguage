@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include "Console.h"
 #include <stdbool.h>
+#include "time.h"
+
+#define MAX 30//전처리기로 MAX숫자에 값을 10으로 전부 치환하는 코드(컴파일 시점에)
 
 int main() {
 	//맵의 크기를 정함
@@ -10,11 +13,22 @@ int main() {
 	int x = 14, y = 28;
 	int bx = 0; int by = 0;
 	bool bullet = false;//총알이 생성되지 않았으면 false, 생성되면 true
+
+#if false//별을 한개씩 떨구는 코드
+	int ex = 0, ey = 0;
+	bool enemy = false;
+#endif
+
+	//배열로 별을 생성하는 코드
+	int ex[MAX] = { 0 };
+	int ey[MAX] = { 0 };
+	bool enemy[MAX] = { false };
 	
 	SetConsoleCursorVisibility(0);
+	srand(time(NULL));
 
 	while (1) {
-		Clear();
+		Clear();//이전위치를 지우고 새로 그리기 위해서
 #if true
 		if (GetAsyncKeyState(VK_LEFT) & 8001) {
 			Clear();
@@ -52,13 +66,50 @@ int main() {
 		if (bullet) {
 			by--;
 			GotoXY(bx, by);
-			printf("★");
+			printf("○");
 
-			if (by < 1) bullet = false;
+			if (by < 0) bullet = false;
 		}
 #endif
+#if false
+		if (!enemy) {
+			//(rand()%15) //rand() => 0~25947랜덤숫자반환%15의 숫자를 반환
+			ex = (rand() % 15)*2;
+			ey = 0;
+			enemy = true;
+		}
 
-		Sleep(20); //안의 숫자만큼 기다렸다 실행
+		if (enemy) {
+			GotoXY(ex, ey);
+			printf("#");
+			ey++;
+
+			if (ey > 26) {
+				enemy = false;
+			}
+		}
+#endif
+		for (int i = 0; i < MAX; i++) {
+			if (!enemy[i]) {
+				//(rand()%15) //rand() => 0~25947랜덤숫자반환%15의 숫자를 반환
+				ex[i] = (rand() % 15) * 2;
+				ey[i] = 0;
+				enemy[i] = true;
+				break;
+			}
+
+			if (enemy[i]) {
+				GotoXY(ex[i], ey[i]);
+				printf("☆");
+				ey[i]++;
+
+				if (ey[i] > 26) {
+					enemy[i] = false;
+				}
+			}
+		}
+
+		Sleep(100); //안의 숫자만큼 기다렸다 실행
 	}
 
 	return 0;
