@@ -2,6 +2,7 @@
 #include "Console.h"
 #include <stdbool.h>
 #include "time.h"
+#include <stdlib.h>
 
 #define MAX 30//전처리기로 MAX숫자에 값을 10으로 전부 치환하는 코드(컴파일 시점에)
 
@@ -97,15 +98,17 @@ int main() {
 				enemy[i] = true;
 				break;
 			}
-
-			if (enemy[i]) {
+		}
+		for (int i = 0; i < MAX; i++)
+		{
+			if (enemy[i])
+			{
 				GotoXY(ex[i], ey[i]);
 				printf("☆");
 				ey[i]++;
 
-				if (ey[i] > 26) {
+				if (ey[i] > 28)
 					enemy[i] = false;
-				}
 			}
 		}
 
